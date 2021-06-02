@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Project 6
 
-You can use the [editor on GitHub](https://github.com/nataleeirwin/cit281-p6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project was designed to help gain experience creating and working classes with inheritance, using a generic block of code to process data, interpreting functional descriptions and specifications to complete an assignment, and writing and executing non-web server Node.js JavaScript code using VSCode.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Source code for this project can be found [here](https://github.com/nataleeirwin/cit281-p6)
 
-### Markdown
+### Elements
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Create project file
+- Create and test Shape base class
+- Implement and test Rectangle class
+- Implement and test Triangle class
+- Create a generic block of code for processing an array of sides arrays
 
-```markdown
-Syntax highlighted code block
+## Here is what the processing block of code outputs
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nataleeirwin/cit281-p6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Screenshot of expected output](https://github.com/nataleeirwin/cit281-p5/blob/main/p5%20files/Example%20output%20p5.png)
