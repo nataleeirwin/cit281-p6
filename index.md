@@ -14,4 +14,4 @@ Source code for this project can be found [here](https://github.com/nataleeirwin
 
 ## Here is what the processing block of code outputs
 
-![Screenshot of expected output](https://github.com/nataleeirwin/cit281-p5/blob/main/p5%20files/Example%20output%20p5.png)
+![Screenshot of expected output](https://github.com/nataleeirwin/cit281-p6/blob/main/p6%20files/expected%20output%20p6.png)
